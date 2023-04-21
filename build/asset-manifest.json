@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.2b241427.css",
+    "main.js": "/myportfolio/static/js/main.8a9fb053.js",
+    "static/js/787.27ca2965.chunk.js": "/myportfolio/static/js/787.27ca2965.chunk.js",
+    "static/media/luxurysteeldoors.png": "/myportfolio/static/media/luxurysteeldoors.7202ce519b334bd1a2e2.png",
+    "static/media/djzaame.png": "/myportfolio/static/media/djzaame.19f0772a3f59b42ff5fe.png",
+    "static/media/shoumik.jpg": "/myportfolio/static/media/shoumik.ca0e25d18e057d014256.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/CV.pdf": "/myportfolio/static/media/CV.0390cdf481583849c1da.pdf",
+    "static/media/fontawesome-webfont.eot": "/myportfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/myportfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/jsprojects.png": "/myportfolio/static/media/jsprojects.69d8a7d905bd4c337471.png",
+    "static/media/github.png": "/myportfolio/static/media/github.22cfdd1cba253783ce51.png",
+    "static/media/instagram.png": "/myportfolio/static/media/instagram.81d74f5b76e85ca7cd6a.png",
+    "index.html": "/myportfolio/index.html",
+    "main.2b241427.css.map": "/myportfolio/static/css/main.2b241427.css.map",
+    "main.8a9fb053.js.map": "/myportfolio/static/js/main.8a9fb053.js.map",
+    "787.27ca2965.chunk.js.map": "/myportfolio/static/js/787.27ca2965.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b241427.css",
+    "static/js/main.8a9fb053.js"
+  ]
+}
