@@ -1,0 +1,20 @@
+[
+    {
+    "id": 1,
+    "coursename": "Bachelor of Science in Computer Science and Engineering (SWE Program)",
+    "courseyear": "2021 - Present",
+    "institute": "Islamic University of Technology"
+    },
+    {
+    "id": 2,
+    "coursename": "Higher Secondary Certificate (HSC)",
+    "courseyear": "2018 - 2020",
+    "institute": "Rajuk Uttara Model College"
+    },
+    {
+    "id": 3,
+    "coursename": "Secondary School Certificate (SSC)",
+    "courseyear": "2016 - 2018",
+    "institute": "Narayanganj Ideal School"
+    }
+    ]

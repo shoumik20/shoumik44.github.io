@@ -1,0 +1,135 @@
+/* Projects Section */
+#projects {
+  height: 100vh;
+  overflow-y: scroll;
+  padding: 10vh 0;
+  background-color: #212121;
+}
+
+#projects .container {
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+#projects h2 {
+  color: #fff;
+  font-size: 3rem;
+  margin-bottom: 50px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+#projects p {
+  color: #fff;
+  font-size: 1.5rem;
+  line-height: 2.5rem;
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+#projects .col-sm-6 {
+  margin-bottom: 50px;
+}
+
+#projects .col-sm-6 strong {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+#projects .col-sm-6 em {
+  color: #8fc7ff;
+  font-style: normal;
+  font-size: 1rem;
+}
+
+#projects .col-sm-6 p:not(:first-child) {
+  margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+  #projects .col-sm-6 {
+    margin-bottom: 30px;
+  }
+  
+  #projects .col-sm-6 strong {
+    font-size: 1.5rem;
+  }
+  
+  #projects p {
+    font-size: 1.2rem;
+    line-height: 2rem;
+  }
+}
+
+/* Education Section */
+#educationn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding-top: 5%;
+}
+
+#educationn h5 {
+  margin-bottom: 10px;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+#educationn .educationnblock {
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 10px;
+  padding: 20px 0;
+}
+
+#educationn .educationnblock:last-child {
+  border-bottom: none;
+}
+
+#educationn .nav-tabs {
+  border: none;
+}
+
+#educationn .nav-tabs .nav-link {
+  border: none;
+  background-color: transparent;
+  border-radius: 0;
+  margin-right: 20px;
+  color: #333;
+  font-size: 18px;
+  font-weight: 500;
+  padding: 10px 20px;
+  transition: all 0.3s ease;
+}
+
+#educationn .nav-tabs .nav-link.active,
+#educationn .nav-tabs .nav-link:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+#educationn .tab-pane {
+  padding: 50px 0;
+}
+
+@media (max-width: 767px) {
+  #educationn {
+    padding-top: 120px;
+    height: auto;
+  }
+  
+  #educationn .tab-pane {
+    padding-top: 20px;
+  }
+  
+  #educationn h5 {
+    font-size: 20px;
+  }
+  
+  #educationn .nav-tabs .nav-link {
+    margin-right: 10px;
+    font-size: 16px;
+    padding: 10px;
+  }
+}
